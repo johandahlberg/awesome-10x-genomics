@@ -30,6 +30,9 @@ Utility functions for 10x data
 * [Topsorter](https://github.com/hanfang/Topsorter) -
 Graphic assement of structural variants
 
+* [SuperNova](https://github.com/10XGenomics/supernova)
+10x Genomics Linked-Read Diploid De Novo Assembler
+
 Single cell
 -----------
 
@@ -41,6 +44,9 @@ R toolkit for single cell genomics
 
 * [Scanpy](https://github.com/theislab/scanpy) -
 Toolkit for simulating and analyzing single cell data
+
+* [TENxGenomics](https://github.com/mtmorgan/TENxGenomics)
+R interface to the 1.3 M single cell data set from 10x Genomics
 
 * [10xQC](http://10xqc.com/) -
 Database of 10x single cell QC metrics submitted by research groups worldwide.
