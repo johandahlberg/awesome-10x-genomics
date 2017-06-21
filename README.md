@@ -13,7 +13,7 @@ Linked reads
 ------------
 
 * [arcs](https://github.com/bcgsc/arcs) -
-Scaffold genome sequence assembly
+Scaffold genome sequence assemblies using linked read data
 
 * [bxtools](https://github.com/walaj/bxtools) -
 Tools for analyzing 10x data
@@ -29,6 +29,9 @@ Utility functions for 10x data
 
 * [Topsorter](https://github.com/hanfang/Topsorter) -
 Graphic assement of structural variants
+
+* [scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/)
+Scaffolding assemblies using linked read data
 
 * [SuperNova](https://github.com/10XGenomics/supernova)
 10x Genomics Linked-Read Diploid De Novo Assembler
