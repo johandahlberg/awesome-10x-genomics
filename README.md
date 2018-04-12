@@ -18,6 +18,9 @@ Scaffold genome sequence assemblies using linked read data
 * [Athena](https://github.com/abishara/athena_meta) -
 Read cloud assembler for metagenomes
 
+* [BarCrawler](https://github.com/J35P312/BarCrawler) -
+An easy to use QC package for 10X genomics barcoded reads.
+
 * [bxtools](https://github.com/walaj/bxtools) -
 Tools for analyzing 10x data
 
