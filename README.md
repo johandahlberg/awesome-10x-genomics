@@ -39,7 +39,7 @@ Correct misassemblies using Linked Reads
 * [Topsorter](https://github.com/hanfang/Topsorter) -
 Graphic assement of structural variants
 
-* [scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/)
+* [scaff10x](https://sourceforge.net/projects/phusion2/files/scaff10x/) -
 Scaffolding assemblies using linked read data
 
 * [SuperNova](https://github.com/10XGenomics/supernova)
