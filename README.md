@@ -24,6 +24,9 @@ An easy to use QC package for 10X genomics barcoded reads.
 * [bxtools](https://github.com/walaj/bxtools) -
 Tools for analyzing 10x data
 
+* [EMerAld](http://cb.csail.mit.edu/cb/ema/) -
+Fast and accurate alignment of barcoded short-reads
+
 * [grocsvs](https://github.com/grocsvs/grocsvs) -
 Genome-wide reconstruction of complex structural variants
 
