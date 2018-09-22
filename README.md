@@ -72,3 +72,5 @@ R interface to the 1.3 M single cell data set from 10x Genomics
 * [10xQC](http://10xqc.com/) -
 Database of 10x single cell QC metrics submitted by research groups worldwide
 
+* [VarTrix](https://github.com/10XGenomics/vartrix) -
+Single-Cell Genotyping tool
