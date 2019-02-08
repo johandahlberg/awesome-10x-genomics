@@ -36,6 +36,9 @@ A simulator for linked reads
 * [NAIBR](https://github.com/raphael-group/NAIBR) -
 Identifies novel adjacencies created by structural variation events such as deletions, duplications, inversions, and complex rearrangements
 
+* [Samovar](https://github.com/cdarby/samovar) -
+Somatic (mosaic) SNV caller for 10X Genomics data using random forest classification and feature-based filters
+
 * [tenx_utils](https://github.com/friend1ws/tenx_utils) -
 Utility functions for 10x data
 
