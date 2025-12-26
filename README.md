@@ -77,3 +77,15 @@ Database of 10x single cell QC metrics submitted by research groups worldwide
 
 * [VarTrix](https://github.com/10XGenomics/vartrix) -
 Single-Cell Genotyping tool
+
+Spatial transcriptomics
+-----------------------
+
+* [FlashDeconv](https://github.com/cafferychen777/flashdeconv) -
+High-performance spatial transcriptomics deconvolution for Visium HD and other 10x platforms. Processes 1M spots in ~3 minutes.
+
+* [Squidpy](https://github.com/scverse/squidpy) -
+Spatial single cell analysis in Python, builds on scanpy and anndata
+
+* [cell2location](https://github.com/BayraktarLab/cell2location) -
+Bayesian model for mapping fine-grained cell types in spatial transcriptomics
